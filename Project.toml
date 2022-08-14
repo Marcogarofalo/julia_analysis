@@ -1,0 +1,7 @@
+name = "julia_analysis"
+uuid = "0ae3c271-2eb2-46fd-a98f-8af6a3eadebd"
+authors = ["Marcogarofalo <marcogarofalo31@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
